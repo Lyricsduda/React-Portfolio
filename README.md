@@ -32,7 +32,7 @@ This project is under the MIT license.
 
 ## Deployment
         
-https://lyricsduda.github.io/React-Portfolio/        
+ https://lyricsduda.github.io/React-Portfolio/     
 
 ## Screenshot
 
