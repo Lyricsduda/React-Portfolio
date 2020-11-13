@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0340d1b7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4df25c8c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4df25c8c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.697f9b23.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.697f9b23.js.map",
+    "static/css/2.43b2b750.chunk.css": "/React-Portfolio/static/css/2.43b2b750.chunk.css",
+    "static/js/2.d106e87f.chunk.js": "/React-Portfolio/static/js/2.d106e87f.chunk.js",
+    "static/js/2.d106e87f.chunk.js.map": "/React-Portfolio/static/js/2.d106e87f.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/React-Portfolio/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.0340d1b7.chunk.css.map": "/React-Portfolio/static/css/main.0340d1b7.chunk.css.map",
+    "static/js/2.d106e87f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d106e87f.chunk.js.LICENSE.txt",
+    "static/media/bookmark.98e3014b.png": "/React-Portfolio/static/media/bookmark.98e3014b.png",
+    "static/media/horiseon.c2baf716.png": "/React-Portfolio/static/media/horiseon.c2baf716.png",
+    "static/media/landmark.387c36f0.png": "/React-Portfolio/static/media/landmark.387c36f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697f9b23.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.d106e87f.chunk.js",
+    "static/css/main.0340d1b7.chunk.css",
+    "static/js/main.4df25c8c.chunk.js"
+  ]
+}
